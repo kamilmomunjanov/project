@@ -1,0 +1,20 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.list3{
+    display: flex;
+}
+.list_first{
+    display: flex;
+    width: 100px;
+}
+.list_second{
+    display: flex;
+    width: 100vw;
+}
+.col-4{
+    display: flex;
+    width: 33.3%;
+}

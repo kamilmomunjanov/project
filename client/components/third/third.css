@@ -1,0 +1,14 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.col-1{
+    width: 25%;
+}
+.str1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}

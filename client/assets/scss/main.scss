@@ -1,0 +1,19 @@
+/* purgecss start ignore */
+@tailwind  base;
+@tailwind  components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+@import './client/components/second/second.css';
+@import './client/components/first/first.css';
+@import './client/components/third/third.css';
+@import './client/components/forth/forth.css';
+@import './client/components/fifth/fifth.css';
+@import './client/components/sixth/sixth.css';
+@import './client/components/seventh/seventh.css';
+@import './client/components/eighth/eighth.css';
+@import './client/components/ninth/ninth.css';
+
+body{
+  font-family: 'Rowdies', cursive;
+}

@@ -1,0 +1,9 @@
+.col-5{
+    width: 100px;
+    height: 100px;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
